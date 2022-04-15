@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1649906373,,"wq"
+|2,0,1649990771,,"wq"
 :q
 |2,0,1647577507,,"q"
 :x
@@ -36,22 +36,64 @@ $
 # Registers:
 
 # File marks:
-'0  1  24  ~/file1
-|4,48,1,24,1649906373,"~/file1"
-'1  3  0  /home/ec2-user/sail
-|4,49,3,0,1647923543,"/home/ec2-user/sail"
-'2  1  8  /httpd.conf
-|4,50,1,8,1647577708,"/httpd.conf"
-'3  8  0  /etc
-|4,51,8,0,1647577507,"/etc"
+'0  1  12  ~/file3
+|4,48,1,12,1649990771,"~/file3"
+'1  2  28  ~/file1
+|4,49,2,28,1649910852,"~/file1"
+'2  1  24  ~/file1
+|4,50,1,24,1649906373,"~/file1"
+'3  1  24  ~/file1
+|4,51,1,24,1649906373,"~/file1"
+'4  3  0  /home/ec2-user/sail
+|4,52,3,0,1647923543,"/home/ec2-user/sail"
+'5  1  8  /httpd.conf
+|4,53,1,8,1647577708,"/httpd.conf"
+'6  8  0  /etc
+|4,54,8,0,1647577507,"/etc"
 
 # Jumplist (newest first):
+-'  1  12  ~/file3
+|4,39,1,12,1649990771,"~/file3"
+-'  2  28  ~/file1
+|4,39,2,28,1649910852,"~/file1"
+-'  2  28  ~/file1
+|4,39,2,28,1649910852,"~/file1"
+-'  1  24  ~/file1
+|4,39,1,24,1649910809,"~/file1"
+-'  1  24  ~/file1
+|4,39,1,24,1649910809,"~/file1"
+-'  1  24  ~/file1
+|4,39,1,24,1649906373,"~/file1"
 -'  1  24  ~/file1
 |4,39,1,24,1649906373,"~/file1"
 -'  3  0  /home/ec2-user/sail
 |4,39,3,0,1647923543,"/home/ec2-user/sail"
 -'  3  0  /home/ec2-user/sail
 |4,39,3,0,1647923543,"/home/ec2-user/sail"
+-'  3  0  /home/ec2-user/sail
+|4,39,3,0,1647923543,"/home/ec2-user/sail"
+-'  3  0  /home/ec2-user/sail
+|4,39,3,0,1647923543,"/home/ec2-user/sail"
+-'  3  0  /home/ec2-user/sail
+|4,39,3,0,1647923543,"/home/ec2-user/sail"
+-'  3  0  /home/ec2-user/sail
+|4,39,3,0,1647923543,"/home/ec2-user/sail"
+-'  3  0  /home/ec2-user/sail
+|4,39,3,0,1647923543,"/home/ec2-user/sail"
+-'  3  0  /home/ec2-user/sail
+|4,39,3,0,1647923543,"/home/ec2-user/sail"
+-'  1  0  /home/ec2-user/sail
+|4,39,1,0,1647923523,"/home/ec2-user/sail"
+-'  1  0  /home/ec2-user/sail
+|4,39,1,0,1647923523,"/home/ec2-user/sail"
+-'  1  0  /home/ec2-user/sail
+|4,39,1,0,1647923523,"/home/ec2-user/sail"
+-'  1  0  /home/ec2-user/sail
+|4,39,1,0,1647923523,"/home/ec2-user/sail"
+-'  1  0  /home/ec2-user/sail
+|4,39,1,0,1647923523,"/home/ec2-user/sail"
+-'  1  0  /home/ec2-user/sail
+|4,39,1,0,1647923523,"/home/ec2-user/sail"
 -'  1  0  /home/ec2-user/sail
 |4,39,1,0,1647923523,"/home/ec2-user/sail"
 -'  1  0  /home/ec2-user/sail
@@ -64,6 +106,78 @@ $
 |4,39,1,8,1647577708,"/httpd.conf"
 -'  1  8  /httpd.conf
 |4,39,1,8,1647577708,"/httpd.conf"
+-'  1  8  /httpd.conf
+|4,39,1,8,1647577708,"/httpd.conf"
+-'  1  8  /httpd.conf
+|4,39,1,8,1647577708,"/httpd.conf"
+-'  1  8  /httpd.conf
+|4,39,1,8,1647577708,"/httpd.conf"
+-'  1  8  /httpd.conf
+|4,39,1,8,1647577708,"/httpd.conf"
+-'  1  8  /httpd.conf
+|4,39,1,8,1647577708,"/httpd.conf"
+-'  1  8  /httpd.conf
+|4,39,1,8,1647577708,"/httpd.conf"
+-'  1  8  /httpd.conf
+|4,39,1,8,1647577708,"/httpd.conf"
+-'  1  8  /httpd.conf
+|4,39,1,8,1647577708,"/httpd.conf"
+-'  1  8  /httpd.conf
+|4,39,1,8,1647577708,"/httpd.conf"
+-'  1  8  /httpd.conf
+|4,39,1,8,1647577708,"/httpd.conf"
+-'  1  8  /httpd.conf
+|4,39,1,8,1647577708,"/httpd.conf"
+-'  1  8  /httpd.conf
+|4,39,1,8,1647577708,"/httpd.conf"
+-'  8  0  /etc
+|4,39,8,0,1647577507,"/etc"
+-'  8  0  /etc
+|4,39,8,0,1647577507,"/etc"
+-'  8  0  /etc
+|4,39,8,0,1647577507,"/etc"
+-'  8  0  /etc
+|4,39,8,0,1647577507,"/etc"
+-'  8  0  /etc
+|4,39,8,0,1647577507,"/etc"
+-'  8  0  /etc
+|4,39,8,0,1647577507,"/etc"
+-'  8  0  /etc
+|4,39,8,0,1647577507,"/etc"
+-'  8  0  /etc
+|4,39,8,0,1647577507,"/etc"
+-'  8  0  /etc
+|4,39,8,0,1647577507,"/etc"
+-'  8  0  /etc
+|4,39,8,0,1647577507,"/etc"
+-'  8  0  /etc
+|4,39,8,0,1647577507,"/etc"
+-'  8  0  /etc
+|4,39,8,0,1647577507,"/etc"
+-'  8  0  /etc
+|4,39,8,0,1647577507,"/etc"
+-'  8  0  /etc
+|4,39,8,0,1647577507,"/etc"
+-'  8  0  /etc
+|4,39,8,0,1647577507,"/etc"
+-'  8  0  /etc
+|4,39,8,0,1647577507,"/etc"
+-'  8  0  /etc
+|4,39,8,0,1647577507,"/etc"
+-'  8  0  /etc
+|4,39,8,0,1647577507,"/etc"
+-'  8  0  /etc
+|4,39,8,0,1647577507,"/etc"
+-'  8  0  /etc
+|4,39,8,0,1647577507,"/etc"
+-'  8  0  /etc
+|4,39,8,0,1647577507,"/etc"
+-'  8  0  /etc
+|4,39,8,0,1647577507,"/etc"
+-'  8  0  /etc
+|4,39,8,0,1647577507,"/etc"
+-'  8  0  /etc
+|4,39,8,0,1647577507,"/etc"
 -'  8  0  /etc
 |4,39,8,0,1647577507,"/etc"
 -'  8  0  /etc
@@ -96,31 +210,65 @@ $
 |4,39,8,0,1647577498,"/etc/httpd"
 -'  8  0  /etc/httpd
 |4,39,8,0,1647577498,"/etc/httpd"
--'  1  0  /etc/httpd
-|4,39,1,0,1647577455,"/etc/httpd"
--'  1  0  /etc/httpd
-|4,39,1,0,1647577455,"/etc/httpd"
--'  1  0  /etc/httpd
-|4,39,1,0,1647577455,"/etc/httpd"
--'  1  0  /etc/httpd
-|4,39,1,0,1647577455,"/etc/httpd"
--'  1  0  /etc/httpd
-|4,39,1,0,1647577455,"/etc/httpd"
--'  1  0  /etc/httpd
-|4,39,1,0,1647577455,"/etc/httpd"
--'  1  0  /etc/httpd
-|4,39,1,0,1647577455,"/etc/httpd"
--'  1  0  /etc/httpd
-|4,39,1,0,1647577455,"/etc/httpd"
+-'  8  0  /etc/httpd
+|4,39,8,0,1647577498,"/etc/httpd"
+-'  8  0  /etc/httpd
+|4,39,8,0,1647577498,"/etc/httpd"
+-'  8  0  /etc/httpd
+|4,39,8,0,1647577498,"/etc/httpd"
+-'  8  0  /etc/httpd
+|4,39,8,0,1647577498,"/etc/httpd"
+-'  8  0  /etc/httpd
+|4,39,8,0,1647577498,"/etc/httpd"
+-'  8  0  /etc/httpd
+|4,39,8,0,1647577498,"/etc/httpd"
+-'  8  0  /etc/httpd
+|4,39,8,0,1647577498,"/etc/httpd"
+-'  8  0  /etc/httpd
+|4,39,8,0,1647577498,"/etc/httpd"
+-'  8  0  /etc/httpd
+|4,39,8,0,1647577498,"/etc/httpd"
+-'  8  0  /etc/httpd
+|4,39,8,0,1647577498,"/etc/httpd"
+-'  8  0  /etc/httpd
+|4,39,8,0,1647577498,"/etc/httpd"
+-'  8  0  /etc/httpd
+|4,39,8,0,1647577498,"/etc/httpd"
+-'  8  0  /etc/httpd
+|4,39,8,0,1647577498,"/etc/httpd"
+-'  8  0  /etc/httpd
+|4,39,8,0,1647577498,"/etc/httpd"
+-'  8  0  /etc/httpd
+|4,39,8,0,1647577498,"/etc/httpd"
+-'  8  0  /etc/httpd
+|4,39,8,0,1647577498,"/etc/httpd"
+-'  8  0  /etc/httpd
+|4,39,8,0,1647577498,"/etc/httpd"
+-'  8  0  /etc/httpd
+|4,39,8,0,1647577498,"/etc/httpd"
+-'  8  0  /etc/httpd
+|4,39,8,0,1647577498,"/etc/httpd"
+-'  8  0  /etc/httpd
+|4,39,8,0,1647577498,"/etc/httpd"
+-'  8  0  /etc/httpd
+|4,39,8,0,1647577498,"/etc/httpd"
 
 # History of marks within files (newest to oldest):
 
+> ~/file3
+	*	1649990766	0
+	"	1	12
+	^	1	13
+	.	1	20
+	+	1	20
+
 > ~/file1
-	*	1649906352	0
-	"	1	24
-	^	1	25
-	.	1	25
+	*	1649910847	0
+	"	2	28
+	^	2	29
+	.	2	28
 	+	1	25
+	+	2	28
 
 > /home/ec2-user/sail
 	*	1647923541	0
